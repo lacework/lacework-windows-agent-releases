@@ -14,6 +14,6 @@ https://updates.lacework.net/windows/GA-1.0.0.2345/azure-terraform.zip
 Packer Script for AWS
 https://updates.lacework.net/windows/GA-1.0.0.2345/packer.zip
 
-Powershell Script
+Lacework Powershell Script
 https://updates.lacework.net/windows/GA-1.0.0.2345/powershell.zip
 ---------------------
