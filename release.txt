@@ -2,18 +2,18 @@
 Lacework Windows Agent Release Notes
 https://docs.lacework.com/releases/2022-30_june-windows-agent-release
 
-Lacework Windows Agent MSI
+Lacework Windows Agent MSI Package
 https://updates.lacework.net/windows/GA-1.0.0.2345/LWDataCollector.msi
 
-Azure Resource Manager(ARM) script installer
+Azure Resource Manager(ARM) Template
 https://updates.lacework.net/windows/GA-1.0.0.2345/azurerm.zip
 
-Terraform script for Azure VMs
+Terraform Script for Azure VMs
 https://updates.lacework.net/windows/GA-1.0.0.2345/azure-terraform.zip
 
-Packet script
+Packer Script for AWS
 https://updates.lacework.net/windows/GA-1.0.0.2345/packer.zip
 
-Powershell script
+Lacework Powershell Script
 https://updates.lacework.net/windows/GA-1.0.0.2345/powershell.zip
 ---------------------
