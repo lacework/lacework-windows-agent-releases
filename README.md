@@ -11,7 +11,7 @@ For information about supported Windows operating systems, how to configure the 
 # Releases
 
 In the right frame, click **Releases** to view the available agent releases.
-The **Assets** section for each release lists the files you can download to install the agent. Each release also contains a link to the specific agent release notes.
+The section for each release lists the files you can download to install the agent. Each release also contains a link to the specific agent release notes.
 To view the release notes for all agent releases, see [Windows Agent Releases](https://docs.lacework.com/releases/category/windows-agent-releases).
 
 # Install Agents
